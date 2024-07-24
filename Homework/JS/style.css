@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.weather-info {
+    margin-top: 20px;
+}
+.weather-info img {
+    vertical-align: middle;
+}
